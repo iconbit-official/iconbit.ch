@@ -1,2 +1,2 @@
-iconbit.co.uk
+iconbit.ch
 =============
